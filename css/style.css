@@ -531,7 +531,7 @@ li p{
     display: flex;
     justify-content: center;
     width: 100%;
-    margin-bottom: 1.75em;
+    margin: auto auto 1.75em auto;
 }
 
 .error-img img{
