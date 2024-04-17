@@ -527,6 +527,19 @@ li p{
     line-height: 5em;
 }
 
+.error-img{
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    max-width: 1600px;
+    margin-bottom: 1.75em;
+}
+
+.error-img img{
+    border-radius: 1em;
+}
+
+
 
 footer {
   /* height: 237px; */
